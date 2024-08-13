@@ -1,0 +1,82 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '59165550111@s.whatsapp.net',
+    fromMe: false,
+    id: 'BB40AE53E1EEA03D47BCFFE602CD71DB',
+    participant: undefined
+  },
+  messageTimestamp: 1723575279,
+  pushName: 'Devil🤪',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '59165550111'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c022d7c1-10c8-4ce8-8c69-b54f0eb93404',
+  keyword: 'key_161eedc3-bed5-4c5e-bd72-bc282bd105aa',
+  answer: 'Este es el flujo Welcome',
+  options: {
+    media: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShz8drx56zX6zBi1AviE26-JJfoVBwvfheYsVQZlJiE_gx4B--J-0kxDl5rHQjY9PbgcA&usqp=CAU',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '021a2aed13873b824b13740d9c4822c3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59165550111@s.whatsapp.net',
+    fromMe: false,
+    id: '1E35D6DB86A916C2ECE15E85C7AA779E',
+    participant: undefined
+  },
+  messageTimestamp: 1723575285,
+  pushName: 'Devil🤪',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '59165550111'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0ce3e96-d54d-44cc-a522-4262598e85c3',
+  keyword: 'key_3c6f1b06-7dc5-4313-8898-e271b35af7e4',
+  answer: 'Elegir una de estas opciones:\r\n' +
+    '\r\n' +
+    'Opcion 1 - Menu\r\n' +
+    'Opcion 2 - Reservas\r\n' +
+    'Opcion 3 - Consultas\r\n' +
+    '\r\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'efe2641402700fad922a0390d7984750'
+}
