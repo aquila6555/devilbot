@@ -111,7 +111,7 @@ const menuFlow = addKeyword("Menu")
 const main = async () => {
     const adapterDB = new MongoAdapter({
         dbUri: process.env.MONGO_DB_URI,
-        dbName: "firstdb"
+        dbName: "firstdbm"
 
 })
     const adapterFlow = createFlow([flowWelcome, menuFlow, flowMenuRest, flowReservas, flowConsultas, flowBot])
