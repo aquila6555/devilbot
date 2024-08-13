@@ -1,0 +1,128 @@
+[
+  {
+    "ref": "ans_633d0b42-a2f9-4856-967d-c559b297b02f",
+    "keyword": "key_afbdc51e-b98d-477e-bcbd-032c85e77eff",
+    "answer": "Este es el flujo Welcome",
+    "options": {
+      "media": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShz8drx56zX6zBi1AviE26-JJfoVBwvfheYsVQZlJiE_gx4B--J-0kxDl5rHQjY9PbgcA&usqp=CAU",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 100,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4f932e5989a1075d180fe6a5d0f28c31",
+    "from": "59165550111"
+  },
+  {
+    "ref": "e7c54593-f87f-4045-8b2d-bea470e449bf",
+    "keyword": null,
+    "answer": "escribiste: Holaaaa",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "59165550111",
+    "refSerialize": "9cedf51b6e63703fbe5d74afda6c52ea"
+  },
+  {
+    "ref": "ea46919b-aff0-4af4-8805-46917bf53dac",
+    "keyword": "4f932e5989a1075d180fe6a5d0f28c31",
+    "answer": "Menu",
+    "options": {},
+    "from": "59165550111",
+    "refSerialize": "1943ef5752ef89f46d7b613aaf765c9b"
+  },
+  {
+    "ref": "ans_6206a481-ab65-4312-a7c1-cc726c4b39b2",
+    "keyword": "key_fade0d73-8498-43c8-abcb-cff11b947596",
+    "answer": "Elegir una de estas opciones:\r\n\r\nOpcion 1 - Menu\r\nOpcion 2 - Reservas\r\nOpcion 3 - Consultas\r\n\r\nOpcion 0 - Salir",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "18409343f73682b73db6354dced22a90",
+    "from": "59165550111"
+  },
+  {
+    "ref": "5911dc02-f4b7-4be8-9bad-68b2450037ad",
+    "keyword": "18409343f73682b73db6354dced22a90",
+    "answer": "3",
+    "options": {},
+    "from": "59165550111",
+    "refSerialize": "7af65864494b12f0f7ef00589f4d3979"
+  },
+  {
+    "ref": "ans_bed4a9ae-547e-4b1d-bf0e-8c9e20e551be",
+    "keyword": "key_feba092d-d4c2-4cd1-b4a8-8a4665404b66",
+    "answer": "esta son las consultas",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "ad21782e956434f0abd84c4cb397e887",
+    "from": "59165550111"
+  },
+  {
+    "ref": "ans_6ea5a867-cda7-4b5a-88a8-26996b9c52e0",
+    "keyword": "ans_bed4a9ae-547e-4b1d-bf0e-8c9e20e551be",
+    "answer": "cual es tu consulta?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b0693ed178764fdd39f966e161452ab1",
+    "from": "59165550111"
+  },
+  {
+    "ref": "f2fcb28d-cc5e-41a3-89a2-2e2a7946bd9a",
+    "keyword": "b0693ed178764fdd39f966e161452ab1",
+    "answer": "Bailar en Frances",
+    "options": {},
+    "from": "59165550111",
+    "refSerialize": "3f6b5ca3013e5ec16ddbc6d8097d8ff4"
+  },
+  {
+    "ref": "45af2add-130a-4b06-818e-a3ec1d7e552b",
+    "keyword": null,
+    "answer": "\"Bailar\" in French can be translated in a few different ways, depending on the context and how you want to emphasize the action. Here are a few options:\n\n**General sense of dancing:**\n\n* **Danser** (most common and neutral) - This is the most general and widely used word for dancing.\n* **Faire la danse** -  This phrase literally translates to \"do the dance\" and implies a specific dance routine or style.\n* **Se trémousser** - This word is more informal and conveys a sense of moving your body freely and rhythmically, often with enthusiasm.\n\n**Specific types of dancing:**\n\n* **Valser** - To waltz\n* **Danser le tango** - To dance the tango\n* **Se déhancher** - To dance in a sensual or suggestive way (often used for hip-hop or Latin dance styles)\n\n**Other phrases related to dancing:**\n\n* **Aimer danser** - To love to dance\n* **Savoir danser** - To know how to dance\n* **Aller danser** - To go dancing\n\n**Example sentences:**\n\n* **J'aime danser.** (I love to dance.)\n* **Elle a dansé toute la nuit.** (She danced all night.)\n* **Ils sont allés danser en boîte de nuit.** (They went dancing at the nightclub.)\n* **Il sait danser le tango.** (He knows how to dance the tango.)\n\nChoose the best translation based on the context of your sentence. \n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "59165550111",
+    "refSerialize": "eb439462d48b2fc78f0675a09d147241"
+  }
+]

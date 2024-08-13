@@ -1,0 +1,7 @@
+Elegir una de estas opciones:
+
+Opcion 1 - Menu
+Opcion 2 - Reservas
+Opcion 3 - Consultas
+
+Opcion 0 - Salir
